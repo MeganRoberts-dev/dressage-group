@@ -30,7 +30,7 @@ To run the Dressage Club Interactive Website locally on your machine, follow the
 
 bash
 Copy code
-git clone https://github.com/Harlow11/Dressage-club.git
+git clone https://github.com/Harlow11/dressage-group.git
 cd dressage-club
 Install Dependencies:
 
@@ -46,7 +46,7 @@ bash
 Copy code
 npm start
 Access the Website:
-Open your web browser and go to http://127.0.0.1:5500/index2.html to access the Dressage Club Interactive Website.
+Open your web browser and go to https://meganroberts-dev.github.io/dressage-group/ to access the Dressage Club Interactive Website.
 
 <h2>Credits</h2>
 The Dressage Club Interactive Website is brought to you by a team of talented developers who are passionate about both coding and equestrian activities. Special thanks to the following contributors:
