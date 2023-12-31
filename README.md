@@ -1,39 +1,66 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1>Dressage Club Interactive Website Readme</h1>
 
-Welcome,
+<h3>Welcome to the Dressage Club Interactive Website, a fictional project that brings together horse enthusiasts and promotes the art of dressage. This Readme provides you with all the necessary information to get started with the project.</h3>
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+<h2>Table of Contents</h2>
+<ul>
+  <li>About</li>
+<li>Screenshots</li>
+<li>How to Run</li>
+<li>Credits</li>
+<li>License</li>
+</ul>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+<h2>About</h2>
+The Dressage Club Interactive Website is a web application designed for horse lovers who share a passion for dressage. The platform serves as a hub for dressage enthusiasts to learn more about the club, read member reviews and browse a gallery of images and video. Users can sign up for membership, with an easy and interative form section. 
+<h2>Screenshots</h2>
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+<img width="1440" alt="Screenshot 2023-12-22 at 11 32 38" src="https://github.com/Harlow11/Dressage-club/assets/148345250/4bfe8436-40a8-4ede-9df5-ca2ef0f1d8e0">
+Members can easily navigate through the website and explore exclusive content.
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<img width="1438" alt="Screenshot 2023-12-22 at 11 32 06" src="https://github.com/Harlow11/Dressage-club/assets/148345250/2d90349a-2e51-41bd-98e5-a5d0df926c5a">
+The membership sign-up process is straightforward and user-friendly.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+<h2>How to Run</h2>
+To run the Dressage Club Interactive Website locally on your machine, follow these steps:
 
-`http_server`
+<h3>Clone the Repository:</h3>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+bash
+Copy code
+git clone https://github.com/Harlow11/Dressage-club.git
+cd dressage-club
+Install Dependencies:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+bash
+Copy code
+npm install
+Configure Environment Variables:
+Create a .env file in the root directory and set the necessary environment variables, including database credentials, API keys, etc.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<h3>Run the Application:</h3>
 
-To log into the Heroku toolbelt CLI:
+bash
+Copy code
+npm start
+Access the Website:
+Open your web browser and go to http://127.0.0.1:5500/index2.html to access the Dressage Club Interactive Website.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+<h2>Credits</h2>
+The Dressage Club Interactive Website is brought to you by a team of talented developers who are passionate about both coding and equestrian activities. Special thanks to the following contributors:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+<ul>
+Megan Roberts - Sole Developer, Creator.<br>
+Code Institue - Providing HTML/ CSS examples and lessons used for header and images.<br>
+FreeCodeCamp - Responsive Web Design HTML/ CSS lessons used for membership sign up.<br>
+Divinector (Youtube creator) - responisve video and gallery. <br>
+Vitor Siqueira - "Button  N° 045" code.<br>
+</ul>
 
----
 
-Happy coding!
+<h2>License</h2>
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feel free to explore, contribute, and enjoy the Dressage Club Interactive Website! If you encounter any issues or have suggestions, please open an issue.
