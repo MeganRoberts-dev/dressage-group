@@ -63,6 +63,7 @@ Code Institue - Providing HTML/ CSS examples and lessons used for header and ima
 FreeCodeCamp - Responsive Web Design HTML/ CSS lessons used for membership sign up.<br>
 Divinector (Youtube creator) - responisve video and gallery. <br>
 Vitor Siqueira - "Button  N° 045" code.<br>
+Logo Image by <a href="https://www.freepik.com/free-vector/hand-drawn-horse-head-silhouette_49270712.htm#query=horse&position=1&from_view=search&track=sph&uuid=2b124051-5851-45e7-99e6-079f1748182d">Freepik</a><br>
 </ul>
 
 
